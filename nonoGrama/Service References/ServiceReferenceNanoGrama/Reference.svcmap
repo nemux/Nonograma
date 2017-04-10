@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c26e2529-18cf-49a6-a1d7-919d31c79142" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:1219/NonoGramaService.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="NonoGramaService.xsd" MetadataType="Schema" ID="d52fbb0c-9915-4c8f-a915-aba260bd1964" SourceId="1" SourceUrl="http://localhost:1219/NonoGramaService.svc?xsd=xsd0" />
+    <MetadataFile FileName="NonoGramaService1.xsd" MetadataType="Schema" ID="22f40722-b5c9-4acf-872b-7a0dd7ebb254" SourceId="1" SourceUrl="http://localhost:1219/NonoGramaService.svc?xsd=xsd3" />
+    <MetadataFile FileName="NonoGramaService.wsdl" MetadataType="Wsdl" ID="2ffc655b-1800-409f-80ae-6ca975976ae8" SourceId="1" SourceUrl="http://localhost:1219/NonoGramaService.svc?wsdl" />
+    <MetadataFile FileName="NonoGramaService2.xsd" MetadataType="Schema" ID="f627bdd2-e85b-4155-9713-056c7cf5f3d9" SourceId="1" SourceUrl="http://localhost:1219/NonoGramaService.svc?xsd=xsd1" />
+    <MetadataFile FileName="NonoGramaService.disco" MetadataType="Disco" ID="99ac1f6b-f2c5-43d8-8c54-f8aa5fe3e221" SourceId="1" SourceUrl="http://localhost:1219/NonoGramaService.svc?disco" />
+    <MetadataFile FileName="NonoGramaService3.xsd" MetadataType="Schema" ID="70357a69-7d36-4fe0-92c3-7c643c1eef9a" SourceId="1" SourceUrl="http://localhost:1219/NonoGramaService.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
